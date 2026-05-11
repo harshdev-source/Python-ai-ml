@@ -1,0 +1,9 @@
+{
+    "name":"Aprajita",
+    "isTeacher":true,
+    "Address":{
+        "city":"London",
+        "Country":"United kingdom"
+    },
+    "subjects":["Python","AI/ML"]
+}

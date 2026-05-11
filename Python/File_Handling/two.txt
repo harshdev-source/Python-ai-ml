@@ -1,0 +1,3 @@
+Old text which already exist New text being appended 
+New text being appended 
+ to the old text
